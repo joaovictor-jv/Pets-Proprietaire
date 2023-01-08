@@ -43,5 +43,5 @@ adotar um animal de estimação, rastrear seu animal com a nossa coleira especia
  Node.js •
  React.js • 
  React Native • 
- Firebase • 
+ Firebase
 </p>
